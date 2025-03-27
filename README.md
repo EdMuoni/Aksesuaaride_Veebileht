@@ -1,2 +1,2 @@
 # Koolit-d
-Tehtud kodused tööd
+[VEEBILEHE LINK](https://edmuoni.github.io/Koolit66d/)
