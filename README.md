@@ -1,2 +1,2 @@
 # Aksesuaaride_Veebileht
-[VEEBILEHE LINK](https://github.com/EdMuoni/Aksesuaaride_Veebileht.git))
+[VEEBILEHE LINK](http://127.0.0.1:5500/index.html)
