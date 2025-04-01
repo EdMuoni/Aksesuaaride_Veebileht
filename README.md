@@ -1,2 +1,3 @@
 # Aksesuaaride_Veebileht
-[VEEBILEHE LINK](http://127.0.0.1:5500/index.html)
+[VEEBILEHE LINK](https://github.com/EdMuoni/Aksesuaaride_Veebileht/blob/main/index.html)
+
