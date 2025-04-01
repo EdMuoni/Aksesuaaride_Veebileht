@@ -1,2 +1,2 @@
 # Aksesuaaride_Veebileht
-[VEEBILEHE LINK](https://edmuoni.github.io/Koolit66d/)
+[VEEBILEHE LINK](https://github.com/EdMuoni/Aksesuaaride_Veebileht.git))
